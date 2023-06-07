@@ -8,7 +8,7 @@ I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passi
   <tr>
     <td>
 		<a href="https://discord.com/users/275971581791174656" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+			<img src="https://lanyard-profile-readme.vercel.app/api/275971581791174656?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
 		</a>
     </td>
   </tr>
