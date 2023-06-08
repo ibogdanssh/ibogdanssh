@@ -47,13 +47,13 @@ These are some statistics from my github account.
 <table>
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
-			<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ibogdanssh&show_icons=true&theme=tokyonight" />
+			<img align="center" style="padding=0;" src="https://ibogdanssh-svuv.vercel.app/api?username=ibogdanssh&show_icons=true&theme=tokyonight" />
 		</td>
 		<td align="center" style="padding=0;width=50%;">
 			<img align="center" style="padding=0;" src="https://ibogdanssh.vercel.app/top-langs/?username=ibogdanssh&layout=compact" />
 		</td>
 	</tr>
-</table>
+</table
 
 > Provided by **[GitHub Readme Stats]**
 
