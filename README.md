@@ -2,8 +2,6 @@
 
 Hi, my name is **[Bogdan-Teodor]**, but you can call me **[Bogdan]**. 
 
-I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passion for building innovative and intuitive web applications, I'm constantly striving to improve my skills and stay up-to-date with the latest technologies. 
-
 <table align="center">
   <tr>
     <td>
