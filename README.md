@@ -65,15 +65,11 @@ These are some statistics from my github account.
 [my repositories]:         https://github.com/ibogdanssh?tab=repositories
 
 
-[Instagram]:               https://www.instagram.com/leonardssh22/
-[Twitter]:                 https://twitter.com/leonardssh_22
 [Discord]:                 https://discord.com/users/275971581791174656
-[Gmail]:                   mailto:
-[Facebook]:                https://www.facebook.com/
-[YouTube]:                 https://www.youtube.com/
-[Twitch]:                  https://www.twitch.tv/
-[Steam]:                   https://steamcommunity.com/id/
-[Spotify]:                 https://open.spotify.com/user/
+[Gmail]:                   mailto:bogdan.constantin0110@gmail.com
+[YouTube]:                 [https://www.youtube.com/](https://www.youtube.com/channel/UC3OXw7OmECflPW8mV2e6GuA)
+[Steam]:                   https://steamcommunity.com/id/iBogdan
+[Spotify]:                 https://open.spotify.com/user/31qfsghrjgwag4grxmovcqmfobfa
 
 [HTML5]:                   https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS3]:                    https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -84,12 +80,10 @@ These are some statistics from my github account.
 [npm]:                     https://npmjs.com
 [MySQL]:                   https://www.mysql.com/
 [PostgreSQL]:              https://www.postgresql.org/
-[NeoVim]:                  https://neovim.io/
 [VSCode Insiders]:         https://code.visualstudio.com/insiders/
 [Bash]:                    https://www.gnu.org/software/bash/
 [Webpack]:                 https://webpack.js.org
 [Photoshop]:               https://www.photoshop.com/en
-[Illustrator]:             https://www.adobe.com/in/products/illustrator.html
 [Linux]:                   https://www.linux.org/
 
 [openweathermap.org]:      https://openweathermap.org/
