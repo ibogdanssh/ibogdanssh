@@ -40,24 +40,6 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Tools** - Github, VS Code, Figma
    * **Other** - Linux, Windows
 
----
-
-### 🧾 Github Statistics
-These are some statistics from my github account.
-
-<table>
-	<tr>
-		<td align="center" style="padding=0;width=50%;">
-			<img align="center" style="padding=0;" src="https://ibogdanssh-svuv.vercel.app/api?username=ibogdanssh&show_icons=true&theme=tokyonight" />
-		</td>
-		<td align="center" style="padding=0;width=50%;">
-			<img align="center" style="padding=0;" src="https://ibogdanssh.vercel.app/top-langs/?username=ibogdanssh&layout=compact" />
-		</td>
-	</tr>
-</table
-
-> Provided by **[GitHub Readme Stats]**
-
 [`discord`]:               https://discord.com/
 
 
