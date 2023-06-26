@@ -16,7 +16,7 @@ Hi, my name is **[Bogdan-Teodor]**, but you can call me **[Bogdan]**.
 
 ### 👨‍💻 What I do
       
-   * 💼 **I'm working on:**
+   * 💼 **I'm working on: Automotive company as a Software Developer. Using Python mainly.**
       
    * ✨ **I'm maintaining:**
 
