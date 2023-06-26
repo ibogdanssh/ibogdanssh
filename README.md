@@ -31,11 +31,12 @@ Hi, my name is **[Bogdan-Teodor]**, but you can call me **[Bogdan]**.
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Python - django / flask
+   * **Backend** - *Python - Django / flask*
    * **Frontend** - HTML5/CSS3, JavaScript (ES6), React, Tailwind CSS
+   * **Software** - *C++, C*
    * **Scripting** - Python3
    * **Datastores** - PostgreSQL, MySql
-   * **Infrastucture** - Docker
+   * **Infrastructure** - Docker
    * **Tools** - Github, VS Code, Figma
    * **Other** - Linux, Windows
 
